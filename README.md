@@ -4,7 +4,8 @@ My family has many physical DVDs in various locations around the house. This app
 DVDs are entered manually, then can be searched, edited and deleted.
 There is also a similar problem for CDs, and the development for this part of the application is a WIP.
 
-The logo on the homepage was made using Adobe Photoshop to edit DVD FLLC's DVD logo.
+The logo on the homepage was made using Adobe Photoshop to edit DVD FLLC's DVD logo.  
+The colour scheme for this application was based on the colours of a TV remote.
 
 ### Screenshots
 
